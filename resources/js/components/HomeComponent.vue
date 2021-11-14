@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Bienvenue</h1>
+        <h1>Bienvenue ceci est l'environnement de développement</h1>
     </div>
 </template>
 
