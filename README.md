@@ -28,6 +28,7 @@ With after i initialize webhook to have notification when build successfully in 
 | Prod   | <a href="https://devopsa4-prod.herokuapp.com/">https://devopsa4-prod.herokuapp.com |
 | Pre-Prod | <a href="https://devopsa4-preprod.herokuapp.com/">https://devopsa4-preprod.herokuapp.com |
 | Dev    | <a href="https://devopsa4-stage.herokuapp.com/">https://devopsa4-stage.herokuapp.com |
+| PR-Env    | <a href="https://devopsa4-br-try-pr-env.herokuapp.com/">https://devopsa4-br-try-pr-env.herokuapp.com |
 
 ## Discord
 
